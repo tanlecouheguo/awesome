@@ -38,3 +38,7 @@
   里面有 4M 的英文单词，数据格式有 txt 和 json
 
 - [https://github.com/Zhangtd/MorTransformation](https://github.com/Zhangtd/MorTransformation) 里面有 18 万个英语单词，其中包括不规则名词、动词表
+
+## Book
+
+- [ZLibrary](https://u1lib.org/)
