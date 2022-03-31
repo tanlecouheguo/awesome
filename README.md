@@ -46,3 +46,23 @@
 ## Book
 
 - [ZLibrary](https://u1lib.org/)
+
+## Cheat Sheets
+
+1. [HTML Cheat Sheet](https://htmlcheatsheet.com/)
+   This cheat sheet contains useful code examples and developer tools, markup generators, and more on a single page.
+   This is a helpful quick guide for those who already know how to work with these languages.
+2. [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
+   This cheat sheet contains the CSS properties, text-shadow generators, color picker, and some common code snippets.
+3. [Grid Layout](https://grid.malven.co/)
+   This one is not only a time saver but it is really a lifesaver because whenever I’m working with grid layout, most of the time I need a cheat sheet.
+4. [FlexBox](https://flexbox.malven.co/)
+   Another visual-based cheat sheet for CSS flexbox, this one contains all the flexbox properties with visual examples.
+5. [JavaScript](https://htmlcheatsheet.com/js/)
+   This Cheat Seet contains useful code examples on a single page. Find code for JavaScript loops, variables, objects, data types, strings, events, and many other categories.
+6. [JavaScript](https://ilovecoding.org/blog/js-cheatsheet)
+   This cheat sheet contains basic to advanced concepts. ES6+, simple explanations, DOM API, Event loop, functions, array, object, Type and so much more.
+7. [React](http://www.developer-cheatsheets.com/react)
+   This single cheat sheet contains various code examples to boost your react development.
+8. [Git](http://git-cheatsheet.com/)
+   This cheat sheet contains a list of handy git commands to make your life easier!
